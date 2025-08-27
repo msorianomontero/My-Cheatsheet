@@ -20,3 +20,7 @@ Basic Statistic operations and measures
 
 ### GeeksForGeeks Tableau Tutorial
 - https://www.geeksforgeeks.org/tableau/tableau-tutorial/
+
+
+### MySQL | Regular Expressions (Regexp)
+- [https://www.geeksforgeeks.org/tableau/tableau-tutorial/](https://www.geeksforgeeks.org/mysql/mysql-regular-expressions-regexp/)
