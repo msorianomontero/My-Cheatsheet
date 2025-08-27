@@ -24,3 +24,6 @@ Basic Statistic operations and measures
 
 ### MySQL | Regular Expressions (Regexp)
 - [https://www.geeksforgeeks.org/tableau/tableau-tutorial/](https://www.geeksforgeeks.org/mysql/mysql-regular-expressions-regexp/)
+
+### Data Science Roadmap For Your First Data Science Job
+- https://gumroad.com/d/8307418699d4de05d38d4b75f213df21
